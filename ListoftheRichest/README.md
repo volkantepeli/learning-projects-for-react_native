@@ -1,7 +1,8 @@
 # List of the Richest !
-<img src = "./image/ss.png" height = 350>
-<img src = "./image/ss1.png" height = 350>
-<img src = "./image/ss2.png" height = 350>
+
+<a><img src = "./image/ss.png" height = 400></a>
+<a><img src = "./image/ss1.png" height = 400></a>
+<a><img src = "./image/ss2.png" height = 400></a>
 
 ## What is List of the Richest APP ?
 ```
