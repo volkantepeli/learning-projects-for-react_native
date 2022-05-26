@@ -1,0 +1,72 @@
+[
+    {
+        "id":0,
+        "name":"Elon Musk",
+        "fortune":"277 bilion dollars",
+        "image":"https://ichef.bbci.co.uk/news/640/cpsprodpb/9D42/production/_124485204_tv075719297.jpg",
+        "about":"Elon Musk, aka Elon Reeve Musk, is an engineer, industrial designer, tech entrepreneur, and philanthropist."
+    },
+    {
+        "id":1,
+        "name":"Jeff Bezos",
+        "fortune":"195 bilion dollars",
+        "image":"https://imgrosetta.mynet.com.tr/file/12992348/12992348-640x380.jpg",
+        "about":"Jeffrey Preston Bezos is an American internet entrepreneur, industrialist, media owner, and investor, best known as the founder, CEO, and chairman of the worldwide technology company Amazon."
+    },
+    {
+        "id":2,
+        "name":"Bernard Arnault",
+        "fortune":"176 bilion dollars",
+        "image":"https://static.daktilo.com/sites/496/uploads/2021/04/27/oip-6.jpg",
+        "about":"Bernard Arnault is a French businessman.He is chairman and managing director of LVMH, the world's largest luxury goods company."
+    },
+    {
+        "id":3,
+        "name":"Bill Gates",
+        "fortune":"139 bilion dollars",
+        "image":"https://pbs.twimg.com/profile_images/1414439092373254147/JdS8yLGI_400x400.jpg",
+        "about":"William Henry Bill Gates III, better known as Bill Gates, is an American entrepreneur, software developer, author, investor, and businessman."
+    },
+    {
+        "id":4,
+        "name":"Larry Page",
+        "fortune":"130 bilion dollars",
+        "image":"https://imageio.forbes.com/specials-images/imageserve/5c76bcaaa7ea43100043c836/0x0.jpg?format=jpg&crop=1795,1795,x227,y22,safe&height=416&width=416&fit=bounds",
+        "about":"is an American software engineer and entrepreneur who is the developer of the basic algorithms of the web search engine Google and the founder of the Google company with Sergey Brin."
+    },
+    {
+        "id":5,
+        "name":"Mark Zuckerberg",
+        "fortune":"128 bilion dollars",
+        "image":"https://ichef.bbci.co.uk/news/640/cpsprodpb/0CF6/production/_117081330_zuck-getty-1.jpg",
+        "about":"Mark Elliot Zuckerberg is an American computer programmer, entrepreneur and founder of Meta."
+    },
+    {
+        "id":6,
+        "name":"Serger Brin",
+        "fortune":"125 bilion dollars",
+        "image":"https://img-s1.onedio.com/id-5ff8a7252570154f10a94a29/rev-0/w-620/f-jpg/s-ecd39688b268969d2c421cea3eed12585736bf16.jpg",
+        "about":"Sergey Brin is an American software engineer and internet entrepreneur who co-founded Google with Larry Page."
+    },
+    {
+        "id":7,
+        "name":"Steve Ballmer",
+        "fortune":"122 bilion dollars",
+        "image":"https://ichef.bbci.co.uk/news/512/mcs/media/images/77046000/jpg/_77046047_77045697.jpg",
+        "about":"Steven Anthony Steve Ballmer is an American businessman who appeared in Microsoft's 1.0 ad in 1986 and has been Microsoft's chairman of the board since 2000."
+    },
+    {
+        "id":8,
+        "name":"Larry Ellison",
+        "fortune":"109 bilion dollars",
+        "image":"https://epnext.com/wp-content/uploads/2016/09/gettyimages-456417250.jpg",
+        "about":"Lawrence Joseph Ellison is a billionaire businessman, founder and CEO of database software firm Oracle."
+    },
+    {
+        "id":9,
+        "name":"Warren Buffet",
+        "fortune":"109 bilion dollars",
+        "image":"https://i.sozcucdn.com/wp-content/uploads/2022/01/26/iecrop/buffet_16_9_1615450844_16_9_1643183752.jpeg?w=390&h=219&mode=crop",
+        "about":"Warren Edward Buffett is an American businessman and stock investor. He is cited as one of the most successful investors of the 20th century."
+    }
+]
