@@ -18,8 +18,14 @@ Includes React Native projects and assignments.
 There are detailed readme files in each project.
 ```
 ## Projects
+
+### List of the Richest
 ```
+It's the first project I've developed for react native.
+
+A simple application that aims to actively use custom component and flatlist component structures.
 ```
+[go to List of the Richest project !](https://github.com/volkantepeli/learning-projects-for-react_native/tree/master/ListoftheRichest)
 
 
 
